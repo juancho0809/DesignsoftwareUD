@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-pytest
-black
-pylint
-pydantic
